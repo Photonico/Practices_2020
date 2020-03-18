@@ -1,2 +1,3 @@
 # Practice_2020
-:sparkles: Practices
+
+:sparkles: Just Practice It!
